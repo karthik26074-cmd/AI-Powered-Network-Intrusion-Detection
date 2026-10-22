@@ -1,0 +1,1390 @@
+2026-03-09 00:30:34,117 - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2026-03-09 00:30:34,189 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-09 00:30:34,189 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-09 00:30:34,189 - INFO -  * Restarting with stat
+2026-03-09 00:32:22,497 - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2026-03-09 00:32:22,546 - WARNING -  * Debugger is active!
+2026-03-09 00:32:22,611 - INFO -  * Debugger PIN: 941-265-991
+2026-03-09 00:32:22,835 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:22] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:22,845 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:22] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:22,855 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:22] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:22,876 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:22] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:22,887 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:22] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:22,925 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:22] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:22,974 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:22] "GET / HTTP/1.1" 200 -
+2026-03-09 00:32:22,982 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:22] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,002 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,032 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,069 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,073 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,085 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,101 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,115 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,124 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,134 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,142 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,170 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,190 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,200 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,238 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:32:23,241 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,279 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,307 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,332 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "GET /static/js/dashboard.js HTTP/1.1" 200 -
+2026-03-09 00:32:23,347 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,380 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,389 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,390 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,433 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,438 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,466 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,470 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,479 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,487 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,504 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,511 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,519 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,544 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,589 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,619 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,635 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,664 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,669 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,683 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,704 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,728 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,744 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,744 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "GET /socket.io/?EIO=4&transport=polling&t=PpEr4IM HTTP/1.1" 200 -
+2026-03-09 00:32:23,762 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,764 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,770 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,795 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,798 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,811 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,828 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,832 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,870 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,877 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,900 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,940 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,954 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:23,968 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:23] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,008 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,040 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,062 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,117 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,186 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,222 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,230 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "POST /socket.io/?EIO=4&transport=polling&t=PpEr4OD&sid=xVE92TphJ1fojPNgAAAA HTTP/1.1" 200 -
+2026-03-09 00:32:24,316 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,356 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,393 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,418 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,440 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,503 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "GET /socket.io/?EIO=4&transport=polling&t=PpEr4RV&sid=xVE92TphJ1fojPNgAAAA HTTP/1.1" 200 -
+2026-03-09 00:32:24,504 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:24,529 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:24] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:25,192 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:25] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:26,774 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:26] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:27,476 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:27] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:29,547 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:29] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:30,520 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:30] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:31,966 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:31] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:33,438 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:33] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:34,977 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:34] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:35,507 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:35] "GET / HTTP/1.1" 200 -
+2026-03-09 00:32:36,522 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:36] "[33mGET /api/traffic/stream HTTP/1.1[0m" 404 -
+2026-03-09 00:32:36,814 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:36] "GET /static/js/dashboard.js HTTP/1.1" 200 -
+2026-03-09 00:32:36,820 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:32:37,082 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:37] "GET /socket.io/?EIO=4&transport=polling&t=PpEr7Zx HTTP/1.1" 200 -
+2026-03-09 00:32:37,239 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:37] "POST /socket.io/?EIO=4&transport=polling&t=PpEr7ci&sid=-0DKn4vfm3FtGrkMAAAC HTTP/1.1" 200 -
+2026-03-09 00:32:37,248 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:37] "GET /socket.io/?EIO=4&transport=polling&t=PpEr7cq&sid=-0DKn4vfm3FtGrkMAAAC HTTP/1.1" 200 -
+2026-03-09 00:32:37,387 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:37] "GET /socket.io/?EIO=4&transport=polling&t=PpEr7ex&sid=-0DKn4vfm3FtGrkMAAAC HTTP/1.1" 200 -
+2026-03-09 00:32:54,823 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:54] "GET / HTTP/1.1" 200 -
+2026-03-09 00:32:55,014 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:32:55,036 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:55] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:32:55,248 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:55] "GET /socket.io/?EIO=4&transport=polling&t=PpErB_0 HTTP/1.1" 200 -
+2026-03-09 00:32:55,422 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:55] "POST /socket.io/?EIO=4&transport=polling&t=PpErC1l&sid=EmzGwaFgxMazj4sfAAAE HTTP/1.1" 200 -
+2026-03-09 00:32:55,448 - INFO - 127.0.0.1 - - [09/Mar/2026 00:32:55] "GET /socket.io/?EIO=4&transport=polling&t=PpErC1n&sid=EmzGwaFgxMazj4sfAAAE HTTP/1.1" 200 -
+2026-03-09 00:33:19,305 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:19] "GET / HTTP/1.1" 200 -
+2026-03-09 00:33:19,419 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:19] "GET /socket.io/?EIO=4&transport=websocket&sid=EmzGwaFgxMazj4sfAAAE HTTP/1.1" 200 -
+2026-03-09 00:33:19,484 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:19] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:33:19,502 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:33:19,714 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:19] "GET /socket.io/?EIO=4&transport=polling&t=PpErHyZ HTTP/1.1" 200 -
+2026-03-09 00:33:19,835 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:19] "POST /socket.io/?EIO=4&transport=polling&t=PpErH-_&sid=udOvhBPWAy4PathbAAAG HTTP/1.1" 200 -
+2026-03-09 00:33:19,916 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:19] "GET /socket.io/?EIO=4&transport=polling&t=PpErH_A&sid=udOvhBPWAy4PathbAAAG HTTP/1.1" 200 -
+2026-03-09 00:33:27,668 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:27] "GET / HTTP/1.1" 200 -
+2026-03-09 00:33:27,811 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:27] "GET /socket.io/?EIO=4&transport=websocket&sid=udOvhBPWAy4PathbAAAG HTTP/1.1" 200 -
+2026-03-09 00:33:27,875 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:33:27,914 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:27] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:33:27,991 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:27] "GET /socket.io/?EIO=4&transport=polling&t=PpErJ-o HTTP/1.1" 200 -
+2026-03-09 00:33:28,036 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:28] "POST /socket.io/?EIO=4&transport=polling&t=PpErJ_-&sid=dqEjGMpDrE4iESxYAAAI HTTP/1.1" 200 -
+2026-03-09 00:33:28,193 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:28] "GET /socket.io/?EIO=4&transport=polling&t=PpErK04&sid=dqEjGMpDrE4iESxYAAAI HTTP/1.1" 200 -
+2026-03-09 00:33:39,642 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:39] "GET / HTTP/1.1" 200 -
+2026-03-09 00:33:39,737 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:39] "GET /socket.io/?EIO=4&transport=websocket&sid=dqEjGMpDrE4iESxYAAAI HTTP/1.1" 200 -
+2026-03-09 00:33:39,792 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:39] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:33:39,792 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:33:39,962 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:39] "GET /socket.io/?EIO=4&transport=polling&t=PpErMuf HTTP/1.1" 200 -
+2026-03-09 00:33:39,977 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:39] "GET / HTTP/1.1" 200 -
+2026-03-09 00:33:40,135 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:40] "POST /socket.io/?EIO=4&transport=polling&t=PpErMz9&sid=EVehBh17TLBnNonvAAAK HTTP/1.1" 200 -
+2026-03-09 00:33:40,203 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:40] "GET /socket.io/?EIO=4&transport=websocket&sid=EVehBh17TLBnNonvAAAK HTTP/1.1" 200 -
+2026-03-09 00:33:40,205 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:40] "GET /socket.io/?EIO=4&transport=polling&t=PpErMzC&sid=EVehBh17TLBnNonvAAAK HTTP/1.1" 200 -
+2026-03-09 00:33:40,255 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:33:40,261 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:40] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:33:40,381 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:40] "GET /socket.io/?EIO=4&transport=polling&t=PpErN18 HTTP/1.1" 200 -
+2026-03-09 00:33:40,445 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:40] "POST /socket.io/?EIO=4&transport=polling&t=PpErN1l&sid=utolovP1q3XRojrAAAAM HTTP/1.1" 200 -
+2026-03-09 00:33:40,525 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:40] "GET /socket.io/?EIO=4&transport=polling&t=PpErN1m&sid=utolovP1q3XRojrAAAAM HTTP/1.1" 200 -
+2026-03-09 00:33:47,542 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:47] "GET / HTTP/1.1" 200 -
+2026-03-09 00:33:47,652 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:47] "GET /socket.io/?EIO=4&transport=websocket&sid=utolovP1q3XRojrAAAAM HTTP/1.1" 200 -
+2026-03-09 00:33:47,704 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:33:47,704 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:47] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:33:47,819 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:47] "GET /socket.io/?EIO=4&transport=polling&t=PpErOqq HTTP/1.1" 200 -
+2026-03-09 00:33:47,850 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:47] "POST /socket.io/?EIO=4&transport=polling&t=PpErOro&sid=Ui6BTM7TMQJdrbomAAAO HTTP/1.1" 200 -
+2026-03-09 00:33:47,929 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:47] "GET /socket.io/?EIO=4&transport=polling&t=PpErOrq&sid=Ui6BTM7TMQJdrbomAAAO HTTP/1.1" 200 -
+2026-03-09 00:33:48,640 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:48] "GET / HTTP/1.1" 200 -
+2026-03-09 00:33:48,719 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:48] "GET /socket.io/?EIO=4&transport=websocket&sid=Ui6BTM7TMQJdrbomAAAO HTTP/1.1" 200 -
+2026-03-09 00:33:48,766 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:33:48,769 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:48] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:33:48,839 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:48] "GET /socket.io/?EIO=4&transport=polling&t=PpErP4w HTTP/1.1" 200 -
+2026-03-09 00:33:48,922 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:48] "POST /socket.io/?EIO=4&transport=polling&t=PpErP6j&sid=i7giM7qnStzld_9TAAAQ HTTP/1.1" 200 -
+2026-03-09 00:33:48,954 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:48] "GET /socket.io/?EIO=4&transport=polling&t=PpErP6k&sid=i7giM7qnStzld_9TAAAQ HTTP/1.1" 200 -
+2026-03-09 00:33:49,620 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:49] "GET / HTTP/1.1" 200 -
+2026-03-09 00:33:49,760 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:49] "GET /socket.io/?EIO=4&transport=websocket&sid=i7giM7qnStzld_9TAAAQ HTTP/1.1" 200 -
+2026-03-09 00:33:49,834 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:33:49,870 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:49] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:33:49,945 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:49] "GET /socket.io/?EIO=4&transport=polling&t=PpErPL_ HTTP/1.1" 200 -
+2026-03-09 00:33:50,013 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:50] "POST /socket.io/?EIO=4&transport=polling&t=PpErPNg&sid=d4V_xartV5UzRKWjAAAS HTTP/1.1" 200 -
+2026-03-09 00:33:50,029 - INFO - 127.0.0.1 - - [09/Mar/2026 00:33:50] "GET /socket.io/?EIO=4&transport=polling&t=PpErPNh&sid=d4V_xartV5UzRKWjAAAS HTTP/1.1" 200 -
+2026-03-09 00:34:19,854 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:19] "GET / HTTP/1.1" 200 -
+2026-03-09 00:34:20,080 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:34:20,169 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:20] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:34:20,278 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:20] "GET /socket.io/?EIO=4&transport=polling&t=PpErWmc HTTP/1.1" 200 -
+2026-03-09 00:34:20,462 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:20] "POST /socket.io/?EIO=4&transport=polling&t=PpErWpV&sid=oBImQ34u37WXwwJnAAAU HTTP/1.1" 200 -
+2026-03-09 00:34:20,490 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:20] "GET /socket.io/?EIO=4&transport=polling&t=PpErWpZ&sid=oBImQ34u37WXwwJnAAAU HTTP/1.1" 200 -
+2026-03-09 00:34:20,589 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:20] "GET /socket.io/?EIO=4&transport=polling&t=PpErWrX&sid=oBImQ34u37WXwwJnAAAU HTTP/1.1" 200 -
+2026-03-09 00:34:20,655 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:20] "GET /socket.io/?EIO=4&transport=polling&t=PpErWs6&sid=oBImQ34u37WXwwJnAAAU HTTP/1.1" 200 -
+2026-03-09 00:34:26,551 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:26] "GET / HTTP/1.1" 200 -
+2026-03-09 00:34:26,707 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:34:26,714 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:26] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:34:26,904 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:26] "GET /socket.io/?EIO=4&transport=polling&t=PpErYNi HTTP/1.1" 200 -
+2026-03-09 00:34:27,126 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:27] "POST /socket.io/?EIO=4&transport=polling&t=PpErYQM&sid=7R1mQ9Wc-lBBEnxPAAAW HTTP/1.1" 200 -
+2026-03-09 00:34:27,241 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:27] "GET /socket.io/?EIO=4&transport=polling&t=PpErYQQ&sid=7R1mQ9Wc-lBBEnxPAAAW HTTP/1.1" 200 -
+2026-03-09 00:34:41,129 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:41] "GET / HTTP/1.1" 200 -
+2026-03-09 00:34:41,228 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:41] "GET /socket.io/?EIO=4&transport=websocket&sid=7R1mQ9Wc-lBBEnxPAAAW HTTP/1.1" 200 -
+2026-03-09 00:34:41,273 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:34:41,295 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:41] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:34:41,345 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:41] "GET /socket.io/?EIO=4&transport=polling&t=PpErbvO HTTP/1.1" 200 -
+2026-03-09 00:34:41,446 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:41] "POST /socket.io/?EIO=4&transport=polling&t=PpErbwa&sid=m_mYXc0Nc28biv9kAAAY HTTP/1.1" 200 -
+2026-03-09 00:34:41,500 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:41] "GET /socket.io/?EIO=4&transport=polling&t=PpErbwc&sid=m_mYXc0Nc28biv9kAAAY HTTP/1.1" 200 -
+2026-03-09 00:34:41,619 - INFO - 127.0.0.1 - - [09/Mar/2026 00:34:41] "GET /socket.io/?EIO=4&transport=polling&t=PpErbyk&sid=m_mYXc0Nc28biv9kAAAY HTTP/1.1" 200 -
+2026-03-09 00:35:13,533 - INFO - 127.0.0.1 - - [09/Mar/2026 00:35:13] "GET / HTTP/1.1" 200 -
+2026-03-09 00:35:13,591 - INFO - 127.0.0.1 - - [09/Mar/2026 00:35:13] "GET /socket.io/?EIO=4&transport=websocket&sid=oBImQ34u37WXwwJnAAAU HTTP/1.1" 200 -
+2026-03-09 00:35:13,609 - INFO - 127.0.0.1 - - [09/Mar/2026 00:35:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:35:13,627 - INFO - 127.0.0.1 - - [09/Mar/2026 00:35:13] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:35:13,713 - INFO - 127.0.0.1 - - [09/Mar/2026 00:35:13] "GET /socket.io/?EIO=4&transport=polling&t=PpErjof HTTP/1.1" 200 -
+2026-03-09 00:35:13,793 - INFO - 127.0.0.1 - - [09/Mar/2026 00:35:13] "POST /socket.io/?EIO=4&transport=polling&t=PpErjqn&sid=oxuQwabluP-WR2_fAAAa HTTP/1.1" 200 -
+2026-03-09 00:35:13,837 - INFO - 127.0.0.1 - - [09/Mar/2026 00:35:13] "GET /socket.io/?EIO=4&transport=polling&t=PpErjqo&sid=oxuQwabluP-WR2_fAAAa HTTP/1.1" 200 -
+2026-03-09 00:35:13,912 - INFO - 127.0.0.1 - - [09/Mar/2026 00:35:13] "GET /socket.io/?EIO=4&transport=polling&t=PpErjsl&sid=oxuQwabluP-WR2_fAAAa HTTP/1.1" 200 -
+2026-03-09 00:37:02,985 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:02] "GET / HTTP/1.1" 200 -
+2026-03-09 00:37:03,134 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "GET /socket.io/?EIO=4&transport=websocket&sid=m_mYXc0Nc28biv9kAAAY HTTP/1.1" 200 -
+2026-03-09 00:37:03,198 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:37:03,227 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:37:03,325 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "GET /socket.io/?EIO=4&transport=polling&t=PpEs8ZZ HTTP/1.1" 200 -
+2026-03-09 00:37:03,389 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "POST /socket.io/?EIO=4&transport=polling&t=PpEs8ae&sid=g8G6QP9l3VVE1xqvAAAc HTTP/1.1" 200 -
+2026-03-09 00:37:03,482 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "GET /socket.io/?EIO=4&transport=polling&t=PpEs8af&sid=g8G6QP9l3VVE1xqvAAAc HTTP/1.1" 200 -
+2026-03-09 00:37:03,490 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "GET / HTTP/1.1" 200 -
+2026-03-09 00:37:03,674 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "GET /socket.io/?EIO=4&transport=websocket&sid=g8G6QP9l3VVE1xqvAAAc HTTP/1.1" 200 -
+2026-03-09 00:37:03,761 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:37:03,790 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:37:03,886 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "GET /socket.io/?EIO=4&transport=polling&t=PpEs8iL HTTP/1.1" 200 -
+2026-03-09 00:37:03,935 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "POST /socket.io/?EIO=4&transport=polling&t=PpEs8jp&sid=LKp26U-5HXla-CBzAAAe HTTP/1.1" 200 -
+2026-03-09 00:37:03,943 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:03] "GET /socket.io/?EIO=4&transport=polling&t=PpEs8jr&sid=LKp26U-5HXla-CBzAAAe HTTP/1.1" 200 -
+2026-03-09 00:37:05,374 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:05] "GET / HTTP/1.1" 200 -
+2026-03-09 00:37:05,439 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:05] "GET /socket.io/?EIO=4&transport=websocket&sid=LKp26U-5HXla-CBzAAAe HTTP/1.1" 200 -
+2026-03-09 00:37:05,508 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:37:05,575 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:05] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:37:05,693 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:05] "GET /socket.io/?EIO=4&transport=polling&t=PpEs989 HTTP/1.1" 200 -
+2026-03-09 00:37:05,796 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:05] "POST /socket.io/?EIO=4&transport=polling&t=PpEs99k&sid=Q4fheQnkqBDJDCLrAAAg HTTP/1.1" 200 -
+2026-03-09 00:37:05,866 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:05] "GET /socket.io/?EIO=4&transport=polling&t=PpEs99r&sid=Q4fheQnkqBDJDCLrAAAg HTTP/1.1" 200 -
+2026-03-09 00:37:09,051 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:09] "GET / HTTP/1.1" 200 -
+2026-03-09 00:37:09,160 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:09] "GET /socket.io/?EIO=4&transport=websocket&sid=Q4fheQnkqBDJDCLrAAAg HTTP/1.1" 200 -
+2026-03-09 00:37:09,194 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:09] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:37:09,195 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:37:09,376 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:09] "GET /socket.io/?EIO=4&transport=polling&t=PpEsA0l HTTP/1.1" 200 -
+2026-03-09 00:37:09,504 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:09] "POST /socket.io/?EIO=4&transport=polling&t=PpEsA44&sid=ZWWOR3iPjf4dhKlZAAAi HTTP/1.1" 200 -
+2026-03-09 00:37:09,567 - INFO - 127.0.0.1 - - [09/Mar/2026 00:37:09] "GET /socket.io/?EIO=4&transport=polling&t=PpEsA4I&sid=ZWWOR3iPjf4dhKlZAAAi HTTP/1.1" 200 -
+2026-03-09 00:38:09,513 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:09] "GET / HTTP/1.1" 200 -
+2026-03-09 00:38:09,609 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:09] "GET /socket.io/?EIO=4&transport=websocket&sid=ZWWOR3iPjf4dhKlZAAAi HTTP/1.1" 200 -
+2026-03-09 00:38:09,651 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:38:09,653 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:09] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:38:09,774 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:09] "GET /socket.io/?EIO=4&transport=polling&t=PpEsOnZ HTTP/1.1" 200 -
+2026-03-09 00:38:09,832 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:09] "POST /socket.io/?EIO=4&transport=polling&t=PpEsOp6&sid=bpSGMONLqO5aqOUnAAAk HTTP/1.1" 200 -
+2026-03-09 00:38:09,891 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:09] "GET /socket.io/?EIO=4&transport=polling&t=PpEsOpG&sid=bpSGMONLqO5aqOUnAAAk HTTP/1.1" 200 -
+2026-03-09 00:38:09,921 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:09] "GET / HTTP/1.1" 200 -
+2026-03-09 00:38:09,973 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:09] "GET /socket.io/?EIO=4&transport=websocket&sid=bpSGMONLqO5aqOUnAAAk HTTP/1.1" 200 -
+2026-03-09 00:38:10,026 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:10] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:38:10,030 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:38:10,142 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:10] "GET /socket.io/?EIO=4&transport=polling&t=PpEsOtB HTTP/1.1" 200 -
+2026-03-09 00:38:10,217 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:10] "GET /socket.io/?EIO=4&transport=polling&t=PpEsOvN&sid=MtkiiGKtW5z6i3xDAAAm HTTP/1.1" 200 -
+2026-03-09 00:38:10,222 - INFO - 127.0.0.1 - - [09/Mar/2026 00:38:10] "POST /socket.io/?EIO=4&transport=polling&t=PpEsOvL&sid=MtkiiGKtW5z6i3xDAAAm HTTP/1.1" 200 -
+2026-03-09 00:39:15,129 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:15] "GET / HTTP/1.1" 200 -
+2026-03-09 00:39:15,160 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:15] "GET /socket.io/?EIO=4&transport=websocket&sid=MtkiiGKtW5z6i3xDAAAm HTTP/1.1" 200 -
+2026-03-09 00:39:15,184 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:39:15,192 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:15] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:39:15,208 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:15] "GET /socket.io/?EIO=4&transport=polling&t=PpEsen1 HTTP/1.1" 200 -
+2026-03-09 00:39:15,238 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:15] "POST /socket.io/?EIO=4&transport=polling&t=PpEsenV&sid=GF4EbgBY4o5o3E80AAAo HTTP/1.1" 200 -
+2026-03-09 00:39:15,243 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:15] "GET /socket.io/?EIO=4&transport=polling&t=PpEsenW&sid=GF4EbgBY4o5o3E80AAAo HTTP/1.1" 200 -
+2026-03-09 00:39:41,454 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:41] "GET / HTTP/1.1" 200 -
+2026-03-09 00:39:41,497 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:41] "GET /socket.io/?EIO=4&transport=websocket&sid=GF4EbgBY4o5o3E80AAAo HTTP/1.1" 200 -
+2026-03-09 00:39:41,531 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:39:41,548 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:41] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:39:41,587 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:41] "GET /socket.io/?EIO=4&transport=polling&t=PpEslCv HTTP/1.1" 200 -
+2026-03-09 00:39:41,633 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:41] "POST /socket.io/?EIO=4&transport=polling&t=PpEslDZ&sid=IvB-tnWZREOeCTCAAAAq HTTP/1.1" 200 -
+2026-03-09 00:39:41,656 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:41] "GET /socket.io/?EIO=4&transport=polling&t=PpEslDb&sid=IvB-tnWZREOeCTCAAAAq HTTP/1.1" 200 -
+2026-03-09 00:39:46,878 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:46] "GET / HTTP/1.1" 200 -
+2026-03-09 00:39:46,914 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:46] "GET /socket.io/?EIO=4&transport=websocket&sid=IvB-tnWZREOeCTCAAAAq HTTP/1.1" 200 -
+2026-03-09 00:39:46,953 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:39:46,954 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:46] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:39:46,987 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:46] "GET /socket.io/?EIO=4&transport=polling&t=PpEsmXM HTTP/1.1" 200 -
+2026-03-09 00:39:47,029 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:47] "POST /socket.io/?EIO=4&transport=polling&t=PpEsmY7&sid=e7HPd69fgGzambYQAAAs HTTP/1.1" 200 -
+2026-03-09 00:39:47,058 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:47] "GET /socket.io/?EIO=4&transport=polling&t=PpEsmY8&sid=e7HPd69fgGzambYQAAAs HTTP/1.1" 200 -
+2026-03-09 00:39:56,531 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:56] "GET /socket.io/?EIO=4&transport=websocket&sid=xVE92TphJ1fojPNgAAAA HTTP/1.1" 200 -
+2026-03-09 00:39:57,028 - INFO - 127.0.0.1 - - [09/Mar/2026 00:39:57] "GET /socket.io/?EIO=4&transport=websocket&sid=d4V_xartV5UzRKWjAAAS HTTP/1.1" 200 -
+2026-03-09 00:40:26,703 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "GET / HTTP/1.1" 200 -
+2026-03-09 00:40:26,731 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "GET /socket.io/?EIO=4&transport=websocket&sid=e7HPd69fgGzambYQAAAs HTTP/1.1" 200 -
+2026-03-09 00:40:26,763 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:40:26,766 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:40:26,796 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "GET /socket.io/?EIO=4&transport=polling&t=PpEswFQ HTTP/1.1" 200 -
+2026-03-09 00:40:26,847 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "POST /socket.io/?EIO=4&transport=polling&t=PpEswGE&sid=4fUWFZkaHTDaR5QMAAAu HTTP/1.1" 200 -
+2026-03-09 00:40:26,861 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "GET /socket.io/?EIO=4&transport=polling&t=PpEswGF&sid=4fUWFZkaHTDaR5QMAAAu HTTP/1.1" 200 -
+2026-03-09 00:40:26,882 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "GET / HTTP/1.1" 200 -
+2026-03-09 00:40:26,903 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "GET /socket.io/?EIO=4&transport=polling&t=PpEswGy&sid=4fUWFZkaHTDaR5QMAAAu HTTP/1.1" 200 -
+2026-03-09 00:40:26,950 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "GET /socket.io/?EIO=4&transport=websocket&sid=4fUWFZkaHTDaR5QMAAAu HTTP/1.1" 200 -
+2026-03-09 00:40:26,998 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:40:26,998 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:26] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:40:27,036 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:27] "GET /socket.io/?EIO=4&transport=polling&t=PpEswJ5 HTTP/1.1" 200 -
+2026-03-09 00:40:27,109 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:27] "POST /socket.io/?EIO=4&transport=polling&t=PpEswJg&sid=9u5iOaYHWGIQuuvWAAAw HTTP/1.1" 200 -
+2026-03-09 00:40:27,155 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:27] "GET / HTTP/1.1" 200 -
+2026-03-09 00:40:27,164 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:27] "GET /socket.io/?EIO=4&transport=polling&t=PpEswJj&sid=9u5iOaYHWGIQuuvWAAAw HTTP/1.1" 200 -
+2026-03-09 00:40:27,213 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:27] "GET /socket.io/?EIO=4&transport=websocket&sid=9u5iOaYHWGIQuuvWAAAw HTTP/1.1" 200 -
+2026-03-09 00:40:27,267 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:40:27,269 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:27] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:40:27,338 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:27] "GET /socket.io/?EIO=4&transport=polling&t=PpEswNI HTTP/1.1" 200 -
+2026-03-09 00:40:27,385 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:27] "POST /socket.io/?EIO=4&transport=polling&t=PpEswOP&sid=F7UO0lEXtNXHUuzVAAAy HTTP/1.1" 200 -
+2026-03-09 00:40:27,393 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:27] "GET /socket.io/?EIO=4&transport=polling&t=PpEswOS&sid=F7UO0lEXtNXHUuzVAAAy HTTP/1.1" 200 -
+2026-03-09 00:40:31,498 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:31] "GET / HTTP/1.1" 200 -
+2026-03-09 00:40:31,533 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:31] "GET /socket.io/?EIO=4&transport=websocket&sid=F7UO0lEXtNXHUuzVAAAy HTTP/1.1" 200 -
+2026-03-09 00:40:31,562 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:40:31,565 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:31] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:40:31,594 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:31] "GET /socket.io/?EIO=4&transport=polling&t=PpEsxQN HTTP/1.1" 200 -
+2026-03-09 00:40:31,643 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:31] "POST /socket.io/?EIO=4&transport=polling&t=PpEsxR2&sid=_a_yicW2KclpqJ2mAAA0 HTTP/1.1" 200 -
+2026-03-09 00:40:31,662 - INFO - 127.0.0.1 - - [09/Mar/2026 00:40:31] "GET /socket.io/?EIO=4&transport=polling&t=PpEsxR4&sid=_a_yicW2KclpqJ2mAAA0 HTTP/1.1" 200 -
+2026-03-09 00:43:46,332 - INFO - 127.0.0.1 - - [09/Mar/2026 00:43:46] "GET / HTTP/1.1" 200 -
+2026-03-09 00:43:46,379 - INFO - 127.0.0.1 - - [09/Mar/2026 00:43:46] "GET /socket.io/?EIO=4&transport=websocket&sid=oxuQwabluP-WR2_fAAAa HTTP/1.1" 200 -
+2026-03-09 00:43:46,415 - INFO - 127.0.0.1 - - [09/Mar/2026 00:43:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:43:46,421 - INFO - 127.0.0.1 - - [09/Mar/2026 00:43:46] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:43:46,501 - INFO - 127.0.0.1 - - [09/Mar/2026 00:43:46] "GET /socket.io/?EIO=4&transport=polling&t=PpEtg_X HTTP/1.1" 200 -
+2026-03-09 00:43:46,637 - INFO - 127.0.0.1 - - [09/Mar/2026 00:43:46] "POST /socket.io/?EIO=4&transport=polling&t=PpEth1L&sid=PaiG4xZyYsy8bvpNAAA2 HTTP/1.1" 200 -
+2026-03-09 00:43:46,662 - INFO - 127.0.0.1 - - [09/Mar/2026 00:43:46] "GET /socket.io/?EIO=4&transport=polling&t=PpEth1P&sid=PaiG4xZyYsy8bvpNAAA2 HTTP/1.1" 200 -
+2026-03-09 00:43:46,919 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-09 00:43:46,919 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-09 00:43:46,919 - INFO -  * Restarting with stat
+2026-03-09 00:44:11,996 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:11] "GET / HTTP/1.1" 200 -
+2026-03-09 00:44:12,035 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "GET /socket.io/?EIO=4&transport=websocket&sid=PaiG4xZyYsy8bvpNAAA2 HTTP/1.1" 200 -
+2026-03-09 00:44:12,054 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:44:12,065 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:44:12,092 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "GET /socket.io/?EIO=4&transport=polling&t=PpEtnFl HTTP/1.1" 200 -
+2026-03-09 00:44:12,169 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "POST /socket.io/?EIO=4&transport=polling&t=PpEtnGa&sid=9EZfP3QFqmlBB_b1AAA4 HTTP/1.1" 200 -
+2026-03-09 00:44:12,194 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "GET /socket.io/?EIO=4&transport=polling&t=PpEtnGb&sid=9EZfP3QFqmlBB_b1AAA4 HTTP/1.1" 200 -
+2026-03-09 00:44:12,200 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "GET / HTTP/1.1" 200 -
+2026-03-09 00:44:12,244 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "GET /socket.io/?EIO=4&transport=websocket&sid=9EZfP3QFqmlBB_b1AAA4 HTTP/1.1" 200 -
+2026-03-09 00:44:12,281 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:44:12,282 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:44:12,330 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "GET /socket.io/?EIO=4&transport=polling&t=PpEtnJ7 HTTP/1.1" 200 -
+2026-03-09 00:44:12,384 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "POST /socket.io/?EIO=4&transport=polling&t=PpEtnK0&sid=VnDPn4yL7HCecP1jAAA6 HTTP/1.1" 200 -
+2026-03-09 00:44:12,402 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:12] "GET /socket.io/?EIO=4&transport=polling&t=PpEtnK1&sid=VnDPn4yL7HCecP1jAAA6 HTTP/1.1" 200 -
+2026-03-09 00:44:14,187 - INFO - 127.0.0.1 - - [09/Mar/2026 00:44:14] "GET /socket.io/?EIO=4&transport=websocket&sid=VnDPn4yL7HCecP1jAAA6 HTTP/1.1" 200 -
+2026-03-09 00:45:37,999 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:37] "GET / HTTP/1.1" 200 -
+2026-03-09 00:45:38,031 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET /socket.io/?EIO=4&transport=websocket&sid=-0DKn4vfm3FtGrkMAAAC HTTP/1.1" 200 -
+2026-03-09 00:45:38,063 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:45:38,067 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:45:38,174 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET /socket.io/?EIO=4&transport=polling&t=PpEu6Fu HTTP/1.1" 200 -
+2026-03-09 00:45:38,289 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:45:38,324 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "POST /socket.io/?EIO=4&transport=polling&t=PpEu6IM&sid=R-uEhOfmGFNU8SXBAAA8 HTTP/1.1" 200 -
+2026-03-09 00:45:38,330 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET /socket.io/?EIO=4&transport=polling&t=PpEu6IS&sid=R-uEhOfmGFNU8SXBAAA8 HTTP/1.1" 200 -
+2026-03-09 00:45:38,396 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET / HTTP/1.1" 200 -
+2026-03-09 00:45:38,432 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET /socket.io/?EIO=4&transport=websocket&sid=R-uEhOfmGFNU8SXBAAA8 HTTP/1.1" 200 -
+2026-03-09 00:45:38,471 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:45:38,473 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:45:38,533 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET /socket.io/?EIO=4&transport=polling&t=PpEu6M5 HTTP/1.1" 200 -
+2026-03-09 00:45:38,616 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:45:38,626 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "POST /socket.io/?EIO=4&transport=polling&t=PpEu6M-&sid=WiiKnm2d69oCNRJfAAA- HTTP/1.1" 200 -
+2026-03-09 00:45:38,636 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET /socket.io/?EIO=4&transport=polling&t=PpEu6N0&sid=WiiKnm2d69oCNRJfAAA- HTTP/1.1" 200 -
+2026-03-09 00:45:38,642 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET / HTTP/1.1" 200 -
+2026-03-09 00:45:38,653 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET /socket.io/?EIO=4&transport=polling&t=PpEu6OJ&sid=WiiKnm2d69oCNRJfAAA- HTTP/1.1" 200 -
+2026-03-09 00:45:38,660 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET /socket.io/?EIO=4&transport=websocket&sid=WiiKnm2d69oCNRJfAAA- HTTP/1.1" 200 -
+2026-03-09 00:45:38,701 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:45:38,705 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:45:38,737 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET /socket.io/?EIO=4&transport=polling&t=PpEu6PQ HTTP/1.1" 200 -
+2026-03-09 00:45:38,802 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:45:38,808 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "POST /socket.io/?EIO=4&transport=polling&t=PpEu6QO&sid=aVFgGAjwKPSK4ObBAABA HTTP/1.1" 200 -
+2026-03-09 00:45:38,828 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET /socket.io/?EIO=4&transport=polling&t=PpEu6QQ&sid=aVFgGAjwKPSK4ObBAABA HTTP/1.1" 200 -
+2026-03-09 00:45:38,908 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET / HTTP/1.1" 200 -
+2026-03-09 00:45:38,936 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "GET /socket.io/?EIO=4&transport=websocket&sid=aVFgGAjwKPSK4ObBAABA HTTP/1.1" 200 -
+2026-03-09 00:45:38,983 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:45:38,987 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:38] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:45:39,023 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:39] "GET /socket.io/?EIO=4&transport=polling&t=PpEu6Tm HTTP/1.1" 200 -
+2026-03-09 00:45:39,082 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:45:39,096 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:39] "POST /socket.io/?EIO=4&transport=polling&t=PpEu6Up&sid=8IqMEHuHatfMiMS6AABC HTTP/1.1" 200 -
+2026-03-09 00:45:39,116 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:39] "GET /socket.io/?EIO=4&transport=polling&t=PpEu6Us&sid=8IqMEHuHatfMiMS6AABC HTTP/1.1" 200 -
+2026-03-09 00:45:39,141 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:39] "GET / HTTP/1.1" 200 -
+2026-03-09 00:45:39,180 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:39] "GET /socket.io/?EIO=4&transport=websocket&sid=8IqMEHuHatfMiMS6AABC HTTP/1.1" 200 -
+2026-03-09 00:45:39,237 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:45:39,268 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:39] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:45:39,293 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:39] "GET /socket.io/?EIO=4&transport=polling&t=PpEu6YC HTTP/1.1" 200 -
+2026-03-09 00:45:39,347 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:45:39,352 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:39] "POST /socket.io/?EIO=4&transport=polling&t=PpEu6Yy&sid=a7imDWwEAddCmXAZAABE HTTP/1.1" 200 -
+2026-03-09 00:45:39,392 - INFO - 127.0.0.1 - - [09/Mar/2026 00:45:39] "GET /socket.io/?EIO=4&transport=polling&t=PpEu6Y-&sid=a7imDWwEAddCmXAZAABE HTTP/1.1" 200 -
+2026-03-09 00:45:46,716 - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2026-03-09 00:45:46,741 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-09 00:45:46,741 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-09 00:45:46,741 - INFO -  * Restarting with stat
+2026-03-09 00:46:13,776 - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2026-03-09 00:46:13,784 - WARNING -  * Debugger is active!
+2026-03-09 00:46:13,790 - INFO -  * Debugger PIN: 941-265-991
+2026-03-09 00:46:40,231 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:40,259 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET /socket.io/?EIO=4&transport=websocket&sid=a7imDWwEAddCmXAZAABE HTTP/1.1" 200 -
+2026-03-09 00:46:40,282 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:46:40,288 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:46:40,334 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLRw HTTP/1.1" 200 -
+2026-03-09 00:46:40,406 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:40,413 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "POST /socket.io/?EIO=4&transport=polling&t=PpEuLSx&sid=8WxeDl1uHw9QW0EUAABG HTTP/1.1" 200 -
+2026-03-09 00:46:40,416 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLS_&sid=8WxeDl1uHw9QW0EUAABG HTTP/1.1" 200 -
+2026-03-09 00:46:40,439 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:40,442 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLTk&sid=8WxeDl1uHw9QW0EUAABG HTTP/1.1" 200 -
+2026-03-09 00:46:40,475 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET /socket.io/?EIO=4&transport=websocket&sid=8WxeDl1uHw9QW0EUAABG HTTP/1.1" 200 -
+2026-03-09 00:46:40,503 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:46:40,503 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:46:40,551 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLVO HTTP/1.1" 200 -
+2026-03-09 00:46:40,632 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:40,647 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "POST /socket.io/?EIO=4&transport=polling&t=PpEuLWN&sid=18QlqoE7_5hUCyAWAABI HTTP/1.1" 200 -
+2026-03-09 00:46:40,647 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLWO&sid=18QlqoE7_5hUCyAWAABI HTTP/1.1" 200 -
+2026-03-09 00:46:40,754 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:40,781 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET /socket.io/?EIO=4&transport=websocket&sid=18QlqoE7_5hUCyAWAABI HTTP/1.1" 200 -
+2026-03-09 00:46:40,809 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:46:40,809 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:46:40,860 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLaI HTTP/1.1" 200 -
+2026-03-09 00:46:40,960 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:40,970 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "POST /socket.io/?EIO=4&transport=polling&t=PpEuLbB&sid=bHdSOjxGP6eUf6o3AABK HTTP/1.1" 200 -
+2026-03-09 00:46:40,975 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLbE&sid=bHdSOjxGP6eUf6o3AABK HTTP/1.1" 200 -
+2026-03-09 00:46:40,980 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:40,994 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:40] "GET /socket.io/?EIO=4&transport=websocket&sid=bHdSOjxGP6eUf6o3AABK HTTP/1.1" 200 -
+2026-03-09 00:46:41,054 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:46:41,071 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:46:41,112 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLe2 HTTP/1.1" 200 -
+2026-03-09 00:46:41,157 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLen&sid=p0rhsvXXYtfhGrozAABM HTTP/1.1" 200 -
+2026-03-09 00:46:41,149 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:41,158 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "POST /socket.io/?EIO=4&transport=polling&t=PpEuLem&sid=p0rhsvXXYtfhGrozAABM HTTP/1.1" 200 -
+2026-03-09 00:46:41,307 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:41,336 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=websocket&sid=p0rhsvXXYtfhGrozAABM HTTP/1.1" 200 -
+2026-03-09 00:46:41,364 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:46:41,366 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:46:41,420 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLiv HTTP/1.1" 200 -
+2026-03-09 00:46:41,484 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:41,495 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "POST /socket.io/?EIO=4&transport=polling&t=PpEuLju&sid=TRfuXOQT8Kl6z-wxAABO HTTP/1.1" 200 -
+2026-03-09 00:46:41,514 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLjv&sid=TRfuXOQT8Kl6z-wxAABO HTTP/1.1" 200 -
+2026-03-09 00:46:41,517 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:41,540 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=websocket&sid=TRfuXOQT8Kl6z-wxAABO HTTP/1.1" 200 -
+2026-03-09 00:46:41,562 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:46:41,564 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:46:41,641 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLmG HTTP/1.1" 200 -
+2026-03-09 00:46:41,714 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:41,723 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "POST /socket.io/?EIO=4&transport=polling&t=PpEuLnG&sid=hhu5pz86GSliKFq-AABQ HTTP/1.1" 200 -
+2026-03-09 00:46:41,722 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLnH&sid=hhu5pz86GSliKFq-AABQ HTTP/1.1" 200 -
+2026-03-09 00:46:41,730 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:41,749 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=websocket&sid=hhu5pz86GSliKFq-AABQ HTTP/1.1" 200 -
+2026-03-09 00:46:41,780 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:46:41,780 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:46:41,844 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLpW HTTP/1.1" 200 -
+2026-03-09 00:46:41,926 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLqP&sid=TrmBSGo5PgHHvkEsAABS HTTP/1.1" 200 -
+2026-03-09 00:46:41,931 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:41,925 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:41,934 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "POST /socket.io/?EIO=4&transport=polling&t=PpEuLqK&sid=TrmBSGo5PgHHvkEsAABS HTTP/1.1" 200 -
+2026-03-09 00:46:41,958 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "GET /socket.io/?EIO=4&transport=websocket&sid=TrmBSGo5PgHHvkEsAABS HTTP/1.1" 200 -
+2026-03-09 00:46:41,977 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:46:41,979 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:41] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:46:42,041 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:42] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLsi HTTP/1.1" 200 -
+2026-03-09 00:46:42,110 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:42,122 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:42] "POST /socket.io/?EIO=4&transport=polling&t=PpEuLth&sid=urG_0dmxqUwRKPmbAABU HTTP/1.1" 200 -
+2026-03-09 00:46:42,141 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:42] "GET /socket.io/?EIO=4&transport=polling&t=PpEuLtj&sid=urG_0dmxqUwRKPmbAABU HTTP/1.1" 200 -
+2026-03-09 00:46:43,464 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:43] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:43,513 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:43] "GET /socket.io/?EIO=4&transport=websocket&sid=urG_0dmxqUwRKPmbAABU HTTP/1.1" 200 -
+2026-03-09 00:46:43,545 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:43] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-03-09 00:46:43,548 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:43] "GET /static/js/dashboard.js HTTP/1.1" 200 -
+2026-03-09 00:46:43,741 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:43] "GET /socket.io/?EIO=4&transport=polling&t=PpEuMHK HTTP/1.1" 200 -
+2026-03-09 00:46:43,780 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:43,786 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:43] "POST /socket.io/?EIO=4&transport=polling&t=PpEuMHt&sid=zywGM7ZRkNJyFgezAABW HTTP/1.1" 200 -
+2026-03-09 00:46:43,788 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:43] "GET /socket.io/?EIO=4&transport=polling&t=PpEuMHt.0&sid=zywGM7ZRkNJyFgezAABW HTTP/1.1" 200 -
+2026-03-09 00:46:44,028 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-09 00:46:44,132 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:44,159 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /socket.io/?EIO=4&transport=websocket&sid=zywGM7ZRkNJyFgezAABW HTTP/1.1" 200 -
+2026-03-09 00:46:44,193 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /static/js/dashboard.js HTTP/1.1" 200 -
+2026-03-09 00:46:44,193 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-03-09 00:46:44,381 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /socket.io/?EIO=4&transport=polling&t=PpEuMR8 HTTP/1.1" 200 -
+2026-03-09 00:46:44,433 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:44,436 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:44,444 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "POST /socket.io/?EIO=4&transport=polling&t=PpEuMRn&sid=sEUE_nphp15UFosYAABY HTTP/1.1" 200 -
+2026-03-09 00:46:44,457 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /socket.io/?EIO=4&transport=polling&t=PpEuMRo&sid=sEUE_nphp15UFosYAABY HTTP/1.1" 200 -
+2026-03-09 00:46:44,466 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /socket.io/?EIO=4&transport=websocket&sid=sEUE_nphp15UFosYAABY HTTP/1.1" 200 -
+2026-03-09 00:46:44,501 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-03-09 00:46:44,503 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /static/js/dashboard.js HTTP/1.1" 200 -
+2026-03-09 00:46:44,650 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:44,688 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /socket.io/?EIO=4&transport=polling&t=PpEuMVx HTTP/1.1" 200 -
+2026-03-09 00:46:44,734 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /static/js/dashboard.js HTTP/1.1" 200 -
+2026-03-09 00:46:44,734 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-03-09 00:46:44,994 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:44] "GET /socket.io/?EIO=4&transport=polling&t=PpEuMat HTTP/1.1" 200 -
+2026-03-09 00:46:45,047 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:45,054 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:45] "POST /socket.io/?EIO=4&transport=polling&t=PpEuMbO&sid=q81QzHYCwgURypWQAABb HTTP/1.1" 200 -
+2026-03-09 00:46:45,055 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:45] "GET /socket.io/?EIO=4&transport=polling&t=PpEuMbP&sid=q81QzHYCwgURypWQAABb HTTP/1.1" 200 -
+2026-03-09 00:46:45,102 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:45] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:45,123 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:45] "GET /socket.io/?EIO=4&transport=websocket&sid=q81QzHYCwgURypWQAABb HTTP/1.1" 200 -
+2026-03-09 00:46:45,153 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:45] "GET /static/js/dashboard.js HTTP/1.1" 200 -
+2026-03-09 00:46:45,153 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:45] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-03-09 00:46:45,386 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:45] "GET /socket.io/?EIO=4&transport=polling&t=PpEuMgq HTTP/1.1" 200 -
+2026-03-09 00:46:45,420 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:45,424 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:45] "POST /socket.io/?EIO=4&transport=polling&t=PpEuMhQ&sid=EfM_6ttI8VZWKqwTAABd HTTP/1.1" 200 -
+2026-03-09 00:46:45,425 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:45] "GET /socket.io/?EIO=4&transport=polling&t=PpEuMhR&sid=EfM_6ttI8VZWKqwTAABd HTTP/1.1" 200 -
+2026-03-09 00:46:45,634 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-09 00:46:51,771 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:51] "GET / HTTP/1.1" 200 -
+2026-03-09 00:46:51,800 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:51] "GET /socket.io/?EIO=4&transport=websocket&sid=EfM_6ttI8VZWKqwTAABd HTTP/1.1" 200 -
+2026-03-09 00:46:51,829 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:46:51,830 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:51] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:46:51,923 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:51] "GET /socket.io/?EIO=4&transport=polling&t=PpEuOH6 HTTP/1.1" 200 -
+2026-03-09 00:46:52,012 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:52] "GET /socket.io/?EIO=4&transport=polling&t=PpEuOI5&sid=nglXq-GQIrgeZTtwAABf HTTP/1.1" 200 -
+2026-03-09 00:46:51,996 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:46:52,014 - INFO - 127.0.0.1 - - [09/Mar/2026 00:46:52] "POST /socket.io/?EIO=4&transport=polling&t=PpEuOI1&sid=nglXq-GQIrgeZTtwAABf HTTP/1.1" 200 -
+2026-03-09 00:49:11,955 - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2026-03-09 00:49:11,978 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-09 00:49:11,978 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-09 00:49:11,978 - INFO -  * Restarting with stat
+2026-03-09 00:49:37,770 - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2026-03-09 00:49:37,776 - WARNING -  * Debugger is active!
+2026-03-09 00:49:37,793 - INFO -  * Debugger PIN: 941-265-991
+2026-03-09 00:51:09,836 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:09] "GET / HTTP/1.1" 200 -
+2026-03-09 00:51:10,110 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:10] "GET /socket.io/?EIO=4&transport=websocket&sid=nglXq-GQIrgeZTtwAABf HTTP/1.1" 200 -
+2026-03-09 00:51:10,118 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:51:10,120 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:10] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:51:10,250 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:10] "GET /socket.io/?EIO=4&transport=polling&t=PpEvNLa HTTP/1.1" 200 -
+2026-03-09 00:51:10,305 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:10] "GET /socket.io/?EIO=4&transport=polling&t=PpEvNMK&sid=boRPiezl5Su2G2uaAABh HTTP/1.1" 200 -
+2026-03-09 00:51:10,301 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:51:10,306 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:10] "POST /socket.io/?EIO=4&transport=polling&t=PpEvNMJ&sid=boRPiezl5Su2G2uaAABh HTTP/1.1" 200 -
+2026-03-09 00:51:10,402 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:10] "GET /socket.io/?EIO=4&transport=polling&t=PpEvNNv&sid=boRPiezl5Su2G2uaAABh HTTP/1.1" 200 -
+2026-03-09 00:51:20,644 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:20] "GET / HTTP/1.1" 200 -
+2026-03-09 00:51:20,732 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:20] "GET /socket.io/?EIO=4&transport=websocket&sid=boRPiezl5Su2G2uaAABh HTTP/1.1" 200 -
+2026-03-09 00:51:20,762 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:51:20,779 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:20] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:51:21,171 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:21] "GET /socket.io/?EIO=4&transport=polling&t=PpEvPzg HTTP/1.1" 200 -
+2026-03-09 00:51:21,216 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:51:21,370 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:21] "POST /socket.io/?EIO=4&transport=polling&t=PpEvQ0Z&sid=-Y8Wp9NVyX6JmagGAABj HTTP/1.1" 200 -
+2026-03-09 00:51:21,554 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:21] "GET /socket.io/?EIO=4&transport=polling&t=PpEvQ0c&sid=-Y8Wp9NVyX6JmagGAABj HTTP/1.1" 200 -
+2026-03-09 00:51:22,837 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:22] "GET /socket.io/?EIO=4&transport=websocket&sid=-Y8Wp9NVyX6JmagGAABj HTTP/1.1" 200 -
+2026-03-09 00:51:43,142 - INFO - 127.0.0.1 - - [09/Mar/2026 00:51:43] "GET /socket.io/?EIO=4&transport=websocket&sid=_a_yicW2KclpqJ2mAAA0 HTTP/1.1" 200 -
+2026-03-09 00:52:31,218 - INFO - 127.0.0.1 - - [09/Mar/2026 00:52:31] "GET / HTTP/1.1" 200 -
+2026-03-09 00:52:31,425 - INFO - 127.0.0.1 - - [09/Mar/2026 00:52:31] "[36mGET /static/js/dashboard.js HTTP/1.1[0m" 304 -
+2026-03-09 00:52:31,425 - INFO - 127.0.0.1 - - [09/Mar/2026 00:52:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-03-09 00:52:31,649 - INFO - 127.0.0.1 - - [09/Mar/2026 00:52:31] "GET /socket.io/?EIO=4&transport=polling&t=PpEvhCX HTTP/1.1" 200 -
+2026-03-09 00:52:31,882 - ERROR - message handler error
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 854, in _handle_event
+    ret = handler(auth)
+TypeError: handle_connect() takes 0 positional arguments but 1 was given
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\engineio\server.py", line 451, in run_handler
+    return self.handlers[event](*args)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 656, in _handle_eio_message
+    self._handle_connect(eio_sid, pkt.namespace, pkt.data)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 539, in _handle_connect
+    success = self._trigger_event(
+        'connect', namespace, sid, self.environ[eio_sid])
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\socketio\server.py", line 621, in _trigger_event
+    return handler(*args)
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 306, in _handler
+    return self._handle_event(handler, message, real_ns, sid,
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                              *args)
+                              ^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\flask_socketio\__init__.py", line 856, in _handle_event
+    ret = handler()
+  File "C:\Users\abhir\Desktop\NIDS\app.py", line 92, in handle_connect
+    print("Client connected to dashboard.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 47, in write
+    self.__convertor.write(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 177, in write
+    self.write_and_convert(text)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 205, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\abhir\Desktop\NIDS\venv\Lib\site-packages\colorama\ansitowin32.py", line 211, in write_plain_text
+    self.wrapped.flush()
+    ~~~~~~~~~~~~~~~~~~^^
+OSError: [Errno 22] Invalid argument
+2026-03-09 00:52:31,890 - INFO - 127.0.0.1 - - [09/Mar/2026 00:52:31] "POST /socket.io/?EIO=4&transport=polling&t=PpEvhGc&sid=eBNlIwmlvWO3K37LAABl HTTP/1.1" 200 -
+2026-03-09 00:52:31,892 - INFO - 127.0.0.1 - - [09/Mar/2026 00:52:31] "GET /socket.io/?EIO=4&transport=polling&t=PpEvhGf&sid=eBNlIwmlvWO3K37LAABl HTTP/1.1" 200 -
+2026-03-09 00:52:31,948 - INFO - 127.0.0.1 - - [09/Mar/2026 00:52:31] "GET /socket.io/?EIO=4&transport=polling&t=PpEvhHx&sid=eBNlIwmlvWO3K37LAABl HTTP/1.1" 200 -
+2026-03-09 01:03:56,312 - INFO -  * Detected change in 'C:\\Users\\abhir\\Desktop\\NIDS\\model_service.py', reloading
+2026-03-09 01:03:56,808 - INFO -  * Detected change in 'C:\\Users\\abhir\\Desktop\\NIDS\\model_service.py', reloading
+2026-03-09 01:03:57,104 - INFO -  * Detected change in 'C:\\Users\\abhir\\Desktop\\NIDS\\model_service.py', reloading
+2026-03-09 01:03:59,966 - INFO -  * Restarting with stat
+2026-03-09 01:04:00,815 - INFO -  * Restarting with stat

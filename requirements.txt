@@ -1,0 +1,9 @@
+Flask
+flask-login
+pandas
+numpy
+scikit-learn
+joblib
+lightgbm
+xgboost
+catboost
